@@ -1,4 +1,4 @@
-# Covid-19-Ananlysis
+# Covid-19-Analysis
 Analysis 1: I tried applying my limited skill-set of Data Analysis to a Covid-19 Data-set of India, I downloaded from Kaggle. 
 The data-set has information recorded about every patient of covid-19 including details like their state, the date on which they were diagnosed with the virus, their current status (recovered/hospitalised), etc. 
 The purpose of this exercise was to check if my results were even remotely close to those that were uploaded by the Covid-19 tracker of India. 
